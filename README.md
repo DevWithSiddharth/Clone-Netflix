@@ -7,9 +7,9 @@ Clone website for educational purpose only
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://cyberlordsy.github.io/Clone-Netflix/)
+👉 [Click here to view the live site](https://devwithsiddharth.github.io/Clone-Netflix/)
 
-> *CyberLordSY*
+> *DevWithSiddharth*
 
 
 
@@ -38,7 +38,7 @@ Clone website for educational purpose only
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/CyberlordSY/Clone-Netflix.git
+   git clone https://github.com/DevWithSiddharth/Clone-Netflix.git
    ```
 
 
