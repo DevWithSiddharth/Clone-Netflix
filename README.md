@@ -36,7 +36,7 @@ Clone website for educational purpose only
 
 ## 🚀 How to Run Locally
 
-1. Clone this repository:
+ Clone this repository:
    ```bash
    git clone https://github.com/DevWithSiddharth/Clone-Netflix.git
    ```
